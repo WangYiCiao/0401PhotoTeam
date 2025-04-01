@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b27292e6-dd13-4d93-9a12-13da6f46b257" name="Changes" comment="0401&#10;red">
+    <list default="true" id="b27292e6-dd13-4d93-9a12-13da6f46b257" name="Changes" comment="0401&#10;red&#10;在css裡增加了img&#10;改head">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +66,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1743466404226</updated>
-      <workItem from="1743466405304" duration="3808000" />
+      <workItem from="1743466405304" duration="7827000" />
     </task>
     <task id="LOCAL-00001" summary="0401">
       <option name="closed" value="true" />
@@ -84,7 +84,23 @@
       <option name="project" value="LOCAL" />
       <updated>1743466849725</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="0401&#10;red&#10;在css裡增加了img">
+      <option name="closed" value="true" />
+      <created>1743507820827</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1743507820827</updated>
+    </task>
+    <task id="LOCAL-00004" summary="0401&#10;red&#10;在css裡增加了img&#10;改head">
+      <option name="closed" value="true" />
+      <created>1743507837040</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1743507837040</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -93,6 +109,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="0401" />
     <MESSAGE value="0401&#10;red" />
-    <option name="LAST_COMMIT_MESSAGE" value="0401&#10;red" />
+    <MESSAGE value="0401&#10;red&#10;在css裡增加了img" />
+    <MESSAGE value="0401&#10;red&#10;在css裡增加了img&#10;改head" />
+    <option name="LAST_COMMIT_MESSAGE" value="0401&#10;red&#10;在css裡增加了img&#10;改head" />
   </component>
 </project>
