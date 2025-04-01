@@ -11,7 +11,7 @@ color : #333;
 height : 200px;
 margin-bottom : 0.5em;
 border-top : 10px solid #fca404;
-background : #A03719 url(images/banner.jpg) no-repeat;
+background : #A03719 url(images/banner.avif) no-repeat;
 color : #000;
 }
 #gutter {
@@ -76,6 +76,19 @@ text-decoration : none;
 color : #fca404;
 background-color : inherit;
 }
+img {
+	width: auto; /* 或者手动设定大小 */
+	height: auto;
+}
+.img {
+	width: 300px; /* 确保 LCP 关键图片有尺寸 */
+	height: auto;
+}
+img.corner {
+	width: 10px;
+	height: 10px;
+}
+
 #footer a:hover {
 text-decoration : underline;
 color : #999;
