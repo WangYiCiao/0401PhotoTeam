@@ -81,8 +81,9 @@ img {
 	height: auto;
 }
 .img {
-	width: 300px; /* 确保 LCP 关键图片有尺寸 */
-	height: auto;
+	width: 300px;
+	height: 200px; /* 設定適當的高度 */
+	object-fit: cover; /* 避免圖片變形 */
 }
 img.corner {
 	width: 10px;

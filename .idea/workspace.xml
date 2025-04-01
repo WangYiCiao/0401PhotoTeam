@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b27292e6-dd13-4d93-9a12-13da6f46b257" name="Changes" comment="0401&#10;red&#10;在css裡增加了img&#10;改head&#10;0&#10;對比度調高&#10;在 &lt;html&gt; 標籤中加入 lang 屬性&#10;增加 padding   margin 增加超連結的可點擊範圍">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="b27292e6-dd13-4d93-9a12-13da6f46b257" name="Changes" comment="0401&#10;red&#10;在css裡增加了img&#10;改head&#10;0&#10;對比度調高&#10;在 &lt;html&gt; 標籤中加入 lang 屬性&#10;增加 padding   margin 增加超連結的可點擊範圍&#10;改进可访问性（Accessibility）" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -67,7 +64,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1743466404226</updated>
-      <workItem from="1743466405304" duration="13325000" />
+      <workItem from="1743466405304" duration="13656000" />
     </task>
     <task id="LOCAL-00001" summary="0401">
       <option name="closed" value="true" />
@@ -125,7 +122,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743517918189</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="0401&#10;red&#10;在css裡增加了img&#10;改head&#10;0&#10;對比度調高&#10;在 &lt;html&gt; 標籤中加入 lang 屬性&#10;增加 padding   margin 增加超連結的可點擊範圍&#10;改进可访问性（Accessibility）">
+      <option name="closed" value="true" />
+      <created>1743519493863</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1743519493863</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -139,6 +144,7 @@
     <MESSAGE value="0401&#10;red&#10;在css裡增加了img&#10;改head&#10;0" />
     <MESSAGE value="0401&#10;red&#10;在css裡增加了img&#10;改head&#10;0&#10;對比度調高" />
     <MESSAGE value="0401&#10;red&#10;在css裡增加了img&#10;改head&#10;0&#10;對比度調高&#10;在 &lt;html&gt; 標籤中加入 lang 屬性&#10;增加 padding   margin 增加超連結的可點擊範圍" />
-    <option name="LAST_COMMIT_MESSAGE" value="0401&#10;red&#10;在css裡增加了img&#10;改head&#10;0&#10;對比度調高&#10;在 &lt;html&gt; 標籤中加入 lang 屬性&#10;增加 padding   margin 增加超連結的可點擊範圍" />
+    <MESSAGE value="0401&#10;red&#10;在css裡增加了img&#10;改head&#10;0&#10;對比度調高&#10;在 &lt;html&gt; 標籤中加入 lang 屬性&#10;增加 padding   margin 增加超連結的可點擊範圍&#10;改进可访问性（Accessibility）" />
+    <option name="LAST_COMMIT_MESSAGE" value="0401&#10;red&#10;在css裡增加了img&#10;改head&#10;0&#10;對比度調高&#10;在 &lt;html&gt; 標籤中加入 lang 屬性&#10;增加 padding   margin 增加超連結的可點擊範圍&#10;改进可访问性（Accessibility）" />
   </component>
 </project>
