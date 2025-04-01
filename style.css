@@ -117,11 +117,14 @@ a {
 text-decoration : none;
 color : #006699;
 background : inherit;
+display: inline-block; /* 讓超連結有區塊範圍 */
+padding: 10px 15px; /* 增加可點擊範圍 */
+margin: 5px; /* 增加按鈕之間的距離 */
+font-size: 16px; /* 提高可讀性 */
 }
 a:hover {
 text-decoration : underline;
 color : #a03719;
-background : inherit;
 }
 a img {
 border : 0;
@@ -177,4 +180,10 @@ blockquote {
 font-weight : bold;
 font-style : italic;
 color : #C02010;/**/
+}
+@media (max-width: 768px) { /* 針對手機裝置 */
+	a {
+		padding: 12px 20px; /* 進一步增加可點擊範圍 */
+		font-size: 18px;
+	}
 }

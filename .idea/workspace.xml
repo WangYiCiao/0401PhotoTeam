@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b27292e6-dd13-4d93-9a12-13da6f46b257" name="Changes" comment="0401&#10;red&#10;在css裡增加了img&#10;改head&#10;0">
+    <list default="true" id="b27292e6-dd13-4d93-9a12-13da6f46b257" name="Changes" comment="0401&#10;red&#10;在css裡增加了img&#10;改head&#10;0&#10;對比度調高">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -67,7 +68,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1743466404226</updated>
-      <workItem from="1743466405304" duration="10000000" />
+      <workItem from="1743466405304" duration="11636000" />
     </task>
     <task id="LOCAL-00001" summary="0401">
       <option name="closed" value="true" />
@@ -109,7 +110,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743513458708</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="0401&#10;red&#10;在css裡增加了img&#10;改head&#10;0&#10;對比度調高">
+      <option name="closed" value="true" />
+      <created>1743516398419</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1743516398419</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -121,6 +130,7 @@
     <MESSAGE value="0401&#10;red&#10;在css裡增加了img" />
     <MESSAGE value="0401&#10;red&#10;在css裡增加了img&#10;改head" />
     <MESSAGE value="0401&#10;red&#10;在css裡增加了img&#10;改head&#10;0" />
-    <option name="LAST_COMMIT_MESSAGE" value="0401&#10;red&#10;在css裡增加了img&#10;改head&#10;0" />
+    <MESSAGE value="0401&#10;red&#10;在css裡增加了img&#10;改head&#10;0&#10;對比度調高" />
+    <option name="LAST_COMMIT_MESSAGE" value="0401&#10;red&#10;在css裡增加了img&#10;改head&#10;0&#10;對比度調高" />
   </component>
 </project>
