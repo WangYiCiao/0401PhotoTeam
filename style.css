@@ -5,14 +5,14 @@ padding : 0;
 font : 73%  "lucida sans", helvetica, "Trebuchet MS", arial, sans-serif;
 line-height : 1.8em;
 background : #E0D0B3;
-color : #333;
+color : #222; /**/
 }
 #header {
 height : 200px;
 margin-bottom : 0.5em;
 border-top : 10px solid #fca404;
 background : #A03719 url(images/banner.avif) no-repeat;
-color : #000;
+color : #FFF; /**/
 }
 #gutter {
 float : left;
@@ -44,18 +44,18 @@ margin-bottom : 1em;
 margin-top : 10px;
 list-style-type : none;
 font-size : 85%;
-background : #E0D0B3;
-color : #666;
+background : #D9C3A3;/**/
+color : #4A1E0B;/**/
 }
 #navcontainer ul li a {
 padding : 15px;
-color : #682715;
+color : #5A1F0E;/**/
 background : transparent url(images/list-off.gif) no-repeat left center;
 text-align : left;
 text-decoration : none;
 }
 #navcontainer ul li a:hover {
-color : #006699;
+color : #004488;/**/
 background : transparent url(images/list-on.gif) no-repeat left center;
 }
 #navcontainer ul li a#current {
@@ -68,12 +68,12 @@ height : 50px;
 padding : 5px;
 text-align : left;
 border-top : 10px solid #fca404;
-background : #a03719;
-color : #000;
+background : #7A2712;/**/
+color : #FFF;/**/
 }
 #footer a {
 text-decoration : none;
-color : #fca404;
+color : #FFD166;/**/
 background-color : inherit;
 }
 img {
@@ -91,7 +91,7 @@ img.corner {
 
 #footer a:hover {
 text-decoration : underline;
-color : #999;
+color : #FFDD88;/**/
 background-color : inherit;
 }
 h1 {
@@ -101,7 +101,7 @@ text-align : left;
 text-transform : uppercase;
 letter-spacing : 10px;
 font-size : 150%;
-color : #333;
+color : #111;/**/
 background : inherit;
 }
 h2 {
@@ -110,7 +110,7 @@ padding : 0.5em 0 0.5em 1em;
 text-transform : uppercase;
 letter-spacing : 5px;
 font-size : 140%;
-color : #682715;
+color : #4A1E0B;/**/
 background : inherit;
 }
 a {
@@ -134,8 +134,8 @@ background : inherit;
 .roundcont {
 margin : 10px;
 width : 98%;
-background : #E9DDC9;
-color : #333;
+background : #E5D5B5;/**/
+color : #222;/**/
 }
 .roundcont p {
 margin : 0 15px;
@@ -176,5 +176,5 @@ input.login {
 blockquote {
 font-weight : bold;
 font-style : italic;
-color : #E05222;
+color : #C02010;/**/
 }
